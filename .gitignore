@@ -4,3 +4,4 @@ server
 build/
 sdkconfig
 sdkconfig.old
+wifi_config.txt
